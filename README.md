@@ -1,4 +1,4 @@
-# WHBLEDemo  （OC & Swift）
+# WFBLEDemo  （OC & Swift）
 本项目基于WHBLEDemo修改。在此感谢WHBLEDemo
 
 CoreBluetooth central and peripheral demo with OC/Swift 
