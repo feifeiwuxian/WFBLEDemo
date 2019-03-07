@@ -1,4 +1,5 @@
 # WHBLEDemo  （OC & Swift）
+本项目基于WHBLEDemo修改。在此感觉WHBLEDemo
 CoreBluetooth central and peripheral demo with OC/Swift 
 
 (iOS蓝牙中心设备和外设开发,本例中包含Swift版本)
@@ -14,6 +15,7 @@ iOS蓝牙开发基础请到这里查阅：**[iOS蓝牙开发介绍](https://reme
 3、CoreBluetooth框架
 4、实现iOS蓝牙外设（Demo）
 5、实现iOS蓝牙中心设备（Demo）
+6、swift实现了外设分段传输数据
 
 Demo的运行gif图如下，中心设备可以从外设读取数据，也可以向外设写入数据。外设也可以向中心设备发送数据。
 PS：需要使用真机测试。
