@@ -1,5 +1,6 @@
 # WHBLEDemo  （OC & Swift）
-本项目基于WHBLEDemo修改。在此感觉WHBLEDemo
+本项目基于WHBLEDemo修改。在此感谢WHBLEDemo
+
 CoreBluetooth central and peripheral demo with OC/Swift 
 
 (iOS蓝牙中心设备和外设开发,本例中包含Swift版本)
