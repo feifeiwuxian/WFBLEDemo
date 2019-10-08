@@ -1,4 +1,8 @@
 # WFBLEDemo  （OC & Swift）
+安卓版在另一个仓库
+https://github.com/feifeiwuxian/android-BluetoothLeGatt
+
+
 本项目基于WHBLEDemo修改。在此感谢WHBLEDemo
 
 CoreBluetooth central and peripheral demo with OC/Swift 
